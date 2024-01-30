@@ -1,0 +1,14 @@
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.recipe-names {
+    background-color: yellow;
+    text-align: center;
+}
+
+.description {
+    font-style: italic;
+}
