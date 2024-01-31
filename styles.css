@@ -1,3 +1,18 @@
+/* * {
+    outline: 2px solid red;
+} */
+
+#title-page-center {
+    text-align: center;
+    padding: 20px;
+}
+
+.title-page{
+    display: block;
+    margin: 10px;
+    padding: 50px;
+}
+
 .title {
     background-color: black;
     color: white;
@@ -7,8 +22,13 @@
 .recipe-names {
     background-color: yellow;
     text-align: center;
+    margin: 20px;
 }
 
 .description {
     font-style: italic;
+}
+
+.img-center {
+    text-align: center;
 }
